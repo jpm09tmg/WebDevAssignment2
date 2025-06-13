@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "Josh",
+    "lastName": "Martin",
+    "dateOfBirth": "1999-02-23",
+    "currentGrade": "12th Grade"
+  },
+  {
+    "id": 2,
+    "firstName": "Becky",
+    "lastName": "Brown",
+    "dateOfBirth": "2009-04-02",
+    "currentGrade": "9th Grade"
+  },
+  {
+    "id": 3,
+    "firstName": "Mike",
+    "lastName": "Carter",
+    "dateOfBirth": "2008-11-30",
+    "currentGrade": "12th Grade"
+  },
+  {
+    "id": 4,
+    "firstName": "Steve",
+    "lastName": "Williams",
+    "dateOfBirth": "2008-01-01",
+    "currentGrade": "10th Grade"
+  },
+  {
+    "id": 5,
+    "firstName": "Jane",
+    "lastName": "Baker",
+    "dateOfBirth": "2007-08-11",
+    "currentGrade": "11th Grade"
+  }
+]
