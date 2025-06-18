@@ -16,7 +16,7 @@ import Header from './Header.jsx';
 import Footer from './Footer.jsx';
 import studentsData from '../data/students.json';
 
-const StudentInfo = () => {
+const StudentInformation = () => {
   // State to store the list of students, starting with data from JSON file
   const [students, setStudents] = useState(studentsData);
 
@@ -103,4 +103,4 @@ const StudentInfo = () => {
   );
 };
 
-export default StudentInfo;
+export default StudentInformation;
