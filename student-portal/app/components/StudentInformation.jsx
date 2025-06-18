@@ -12,8 +12,8 @@
 import { useState } from 'react';
 import StudentList from './StudentList.jsx';
 import AddForm from './AddForm.jsx';
-import Header from './Header.jsx';
-import Footer from './Footer.jsx';
+import Header from './header.jsx';
+import Footer from './footer.jsx';
 import studentsData from '../data/students.json';
 
 const StudentInformation = () => {
